@@ -1,6 +1,6 @@
 📊 Codeforces Stats
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MatrixIIIT)](https://codeforces.com/profile/MatrixIIIT&theme=dark)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MatrixIIIT&theme=dark)](https://codeforces.com/profile/MatrixIIIT)
 
 ---
 
