@@ -16,3 +16,4 @@
 | ✓    | [A_Next_Round.cpp](https://codeforces.com/problemset/problem/158/A)| *special_problem, implementation |
 | ✓    | [A_Domino_piling.cpp](https://codeforces.com/problemset/problem/50/A)| greedy, math |
 | ✓    | [A_Beautiful_Matrix.cpp](https://codeforces.com/problemset/problem/263/A)| implementation |
+| ✓    | [A_Petya_and_Strings.cpp](https://codeforces.com/problemset/problem/112/A)| implementation |
