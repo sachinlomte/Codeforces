@@ -13,5 +13,6 @@
 | ✓    | [A_Team.cpp](https://codeforces.com/problemset/problem/231/A)| brute force, greedy |
 | ✓    | [A_Bit.cpp](https://codeforces.com/problemset/problem/282/A)| implementation |
 | ✓    | [A_Theatre_Square.cpp](https://codeforces.com/problemset/problem/1/A)| math |
-| ✓    | [A_Next_Round.cpp](https://codeforces.com/problemset/problem/158/A)| *speacial_problem, implementation |
+| ✓    | [A_Next_Round.cpp](https://codeforces.com/problemset/problem/158/A)| *special_problem, implementation |
 | ✓    | [A_Domino_piling.cpp](https://codeforces.com/problemset/problem/50/A)| greedy, math |
+| ✓    | [A_Beautiful_Matrix.cpp](https://codeforces.com/problemset/problem/263/A)| implementation |
