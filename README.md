@@ -20,3 +20,7 @@
 | 10   | [A_Helpful_Maths.cpp](https://codeforces.com/problemset/problem/339/A)| greedy, implementation, sortings, strings, *800 |
 | 11   | [A_Boy_or_Girl.cpp](https://codeforces.com/problemset/problem/236/A)| brute force, implementation, strings, *800 |
 | 12    | [A_Word_Capitalization.cpp](https://codeforces.com/problemset/problem/281/A)| implementation, strings, *800 |
+| 13    | [A_Bear_and_Big_Brother.cpp](https://codeforces.com/problemset/problem/791/A)| implementation, *800 |
+| 14    | [A_Stones_on_the_Table.cpp](https://codeforces.com/problemset/problem/266/A)| implementation, *800 |
+| 15    | [A_Elephant.cpp](https://codeforces.com/problemset/problem/617/A)| math, *800 |
+| 16    | [A_String_Task.cpp](https://codeforces.com/problemset/problem/118/A)| implementation, strings, *1000 |
